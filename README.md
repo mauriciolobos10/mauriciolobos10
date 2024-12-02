@@ -2,18 +2,17 @@
 # Hola, mi nombre es Mauricio 👋
 # Bienvenido a mi Perfil de GitHub
 
-Soy un Desarrollador Full Stack con experiencia en JAVA, JavaScript. Programador de rápido aprendizaje, en búsqueda de la mejora continua, interesado en adquirir nuevos conocimientos, proactivo y responsable en las tareas asignadas.
+Soy un Desarrollador Full Stack con experiencia en diversas tecnologías. Programador de rápido aprendizaje, en búsqueda de la mejora continua, interesado en adquirir nuevos conocimientos, proactivo y responsable en las tareas asignadas.
 ## Acerca de mí (About Me)
 
-- 👨‍💻 Siempre buscando aprender y crecer.
-  Always seeking to learn and grow.
-- 🤝 Capacidad para trabajar en varias tareas a la vez y bajo presión.
-  Ability to work on multiple tasks at once and under pressure.
-- 🎯 Capacidad para seguir instrucciones y entregar resultados de
-  calidad.
-  Ability to follow instructions and deliver quality results.
-- 🧐 Curioso y siempre en busca de conocimiento.
-  Curious and eager to continually learn.
+- 👨‍💻 Siempre buscando aprender, crecer y mejorar.
+  Always looking to learn, grow and improve
+- 🤝 Capacidad para gestionar múltiples tareas de manera eficiente, manteniendo un alto rendimiento incluso en entornos de alta presión.
+  Ability to manage multiple tasks efficiently, maintaining high performance even in high-pressure environments.
+- 🎯 Habilidad para seguir instrucciones con precisión y garantizar la entrega de resultados de alta calidad.
+  Skill in following instructions with precision and ensuring the delivery of high-quality results.
+- 🧐 Constantemente en busca de nuevos conocimientos y aprendizajes.
+  Always seeking new knowledge and learning opportunities.
 
 ## Mis Habilidades (My Skills)
 
